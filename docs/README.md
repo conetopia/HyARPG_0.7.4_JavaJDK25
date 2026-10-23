@@ -21,7 +21,7 @@ This mod heavily modifies core systems. Use a fresh world and avoid conflicting 
 ## Building for Hytale 0.7.4
 
 The Gradle build compiles against the Hytale Server 0.7.4 API and writes the mod JAR
-to `build/libs/hyarpg-3.6.0.jar`. Build without deploying it with:
+to `build/libs/hyarpg-3.6.2.jar`. Build without deploying it with:
 
 ```powershell
 .\gradlew.bat build
